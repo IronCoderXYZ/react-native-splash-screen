@@ -181,7 +181,7 @@ You can create splash screens in the following folders:
 * `drawable-xxhdpi`
 * `drawable-xxxhdpi`
 
-To modify the status bar color, you can add a color called primary_dark in color.xml
+To modify the status bar color, you can add a color called primary_dark in colors.xml
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
